@@ -12,3 +12,5 @@ int main() {
     printf("Largest element in the array is: %d", max);
     return 0;
 }
+Output:
+Largest element in the array is: 99
